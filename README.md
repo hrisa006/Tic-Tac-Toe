@@ -4,7 +4,7 @@ A small but realistic Tic-Tac-Toe game built with React.js and CSS for styling a
 
 ## Features
 - **Edit Name**: Sets name for each of the players.
-- **Show Turns**: Highlighting the player's name indicates that it is their turn to place a symbol on the game board.
+- **Show Turns**: Highlighting the player's name indicates that it is their turn to place a symbol (X, O) on the game board.
 - **History List**: Displays each move's location in the format (row, col) as a list.
 - **Game Over**: Notes the name of the winning player and prompts for a new game.
 - **Rematch**: Loads a new game board and resets the move history list.
